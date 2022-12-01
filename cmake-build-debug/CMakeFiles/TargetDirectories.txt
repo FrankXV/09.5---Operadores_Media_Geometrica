@@ -1,0 +1,3 @@
+C:/Users/Fabricio.Cuadra/CLionProjects/Operadores_Media_Geometrica/cmake-build-debug/CMakeFiles/Operadores_Media_Geometrica.dir
+C:/Users/Fabricio.Cuadra/CLionProjects/Operadores_Media_Geometrica/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Fabricio.Cuadra/CLionProjects/Operadores_Media_Geometrica/cmake-build-debug/CMakeFiles/rebuild_cache.dir
